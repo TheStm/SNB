@@ -66,3 +66,4 @@ if __name__ == '__main__':
     plt.ylabel('Liczba wystąpień')
     plt.title('Histogram atrybutu fractal_dimension_mean')
     plt.show()
+
